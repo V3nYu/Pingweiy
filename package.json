@@ -1,0 +1,10 @@
+{
+    "name":"node-server",
+    "description":"A sample Node.js app using Expess 4",
+    "dependencies":{
+        "express":"*"
+    },
+    "author":"your name",
+    "license":"MIT"
+}
+
